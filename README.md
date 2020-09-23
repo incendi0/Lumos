@@ -2,7 +2,7 @@
 
 ### JAVA
 
-#### [Java Generics and collections](https://github.com/incendi0/Lumos/issues/2)
+[Java Generics and collections](https://github.com/incendi0/Lumos/issues/2)
 
 ## leetcode周赛
 
