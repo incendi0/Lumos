@@ -19,3 +19,4 @@
 
 [第214场周赛](https://github.com/incendi0/Lumos/issues/7)
 
+[第216场周赛](https://github.com/incendi0/Lumos/issues/8)
