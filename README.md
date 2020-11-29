@@ -12,7 +12,6 @@
 
 [第210场周赛](https://github.com/incendi0/Lumos/issues/4)
 
-
 [第37场双周赛&第211场周赛](https://github.com/incendi0/Lumos/issues/5)
 
 [第213场周赛](https://github.com/incendi0/Lumos/issues/6)
@@ -20,3 +19,5 @@
 [第214场周赛](https://github.com/incendi0/Lumos/issues/7)
 
 [第216场周赛](https://github.com/incendi0/Lumos/issues/8)
+
+[第40场双周赛&第217场周赛](https://github.com/incendi0/Lumos/issues/9)
