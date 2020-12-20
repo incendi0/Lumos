@@ -23,3 +23,5 @@
 [第40场双周赛&第217场周赛](https://github.com/incendi0/Lumos/issues/9)
 
 [第218场周赛](https://github.com/incendi0/Lumos/issues/10)
+
+[第220场周赛](https://github.com/incendi0/Lumos/issues/12)
