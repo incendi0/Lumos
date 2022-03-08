@@ -1,8 +1,17 @@
 ## 读书笔记
 
+### 软件工程
+
+[人月神话](https://github.com/incendi0/Lumos/issues/13)
+
 ### JAVA
 
 [Java Generics and collections](https://github.com/incendi0/Lumos/issues/2)
+
+[JDK源码阅读](https://github.com/incendi0/Lumos/issues/14)
+
+- [x] Object
+- [x] Thread
 
 ## leetcode周赛
 
@@ -25,3 +34,4 @@
 [第218场周赛](https://github.com/incendi0/Lumos/issues/10)
 
 [第220场周赛](https://github.com/incendi0/Lumos/issues/12)
+
