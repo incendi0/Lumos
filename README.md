@@ -3,7 +3,7 @@
 ### C++
 开个坑，熟悉下C++，long road ahead
 
-A Tour of C++
+[A Tour of C++](https://github.com/incendi0/Lumos/issues/17)
 
 
 ### 软件工程
