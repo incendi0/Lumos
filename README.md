@@ -1,5 +1,11 @@
 ## 读书笔记
 
+### C++
+开个坑，熟悉下C++，long road ahead
+
+A Tour of C++
+
+
 ### 软件工程
 
 [人月神话](https://github.com/incendi0/Lumos/issues/13)
